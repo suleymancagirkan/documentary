@@ -1,4 +1,4 @@
-# PHP Özeti (Lazomö)
+# PHP Özeti
 Bu döküman, PHP programlama dilinin temel yapı taşlarını ve önemli özelliklerini kısaca özetlemektedir.
 
 ## 1. Değişken Tanımlama

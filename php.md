@@ -129,4 +129,4 @@ class Helper {
 }
 ```
 
-Bu özet, PHP'nin temel özelliklerini ve sık kullanılan yapılarını kapsar. Daha detaylı bilgi için resmi PHP dokümantasyonuna başvurabilirsiniz.
+@suleymancagirkan
